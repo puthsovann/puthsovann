@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @puthsovann
-- 👀 I’m interested in development.
-- 🌱 I’m currently learning anythins XD.
-- 💞️ I’m looking to collaborate on ...
+- 👀 Time is what determines security. With enough time nothing is unhackable.
+- 🌱 No technology that’s connected to the Internet is unhackable XD.
+- 💞️ Amateurs hack systems, professionals hack people.
 - 📫 How to reach me ...
 
 <!---
